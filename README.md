@@ -12,4 +12,4 @@
 
 - ชื่อ-สกุล: วรัชญ์ วงศ์วิชิต
 - รหัสนักศึกษา:680610713
-- <strong>GITHUB PAGE URL : </strong>
+- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-plume25-dev/</strong>
